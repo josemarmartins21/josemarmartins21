@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josemarmartins21(Josemar Martins)
 - 👀 I’m interested in TI area
-- 🌱 I’m currently learning POO, CyberSecurity
+- 🌱 I’m currently learning Spring boot, HTML, CSS e SQL
 - 💞️ I’m looking to collaborate on TI area
 - 📫 How to reach me Tel: +244 927773901 / Email: josemar21@outlook.pt
 - 😄 Pronouns: ..
