@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @josemarmartins21(Josemar Martins)
-- 👀 I’m interested in TI area
-- 🌱 I’m currently learning Spring boot, HTML, CSS e SQL
-- 💞️ I’m looking to collaborate on TI area
-- 📫 How to reach me Tel: +244 927773901 / Email: josemar21@outlook.pt
+- 👋 Hi, I'm Josemar Martins
+- 👀 I’m interested in software development 
+- 🌱 I’m currently learning Laravel, HTML, CSS e SQL
+- 💞️ I’m looking to collaborate on web development 
+- 📫 How to reach me Tel: +244 930710346 / Email: josemar21@outlook.pt
 - 😄 Pronouns: ..
-- ⚡ Fun fact: "Viva la vida"
+- ⚡ Fun fact: 
 
 <!---
 josemarmartins21/josemarmartins21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
