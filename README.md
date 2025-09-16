@@ -4,10 +4,9 @@ Sou um entusiasta de __tecnologia__, atualmente no último ano do ensino médio 
 
 ## Habilidades Técnicas
 
-### Linguagens: 
-
-* Java (POO)
-* PHP (orientado a objetos)
+* __Linguagens__: 
+ * Java (POO)
+ * PHP (orientado a objetos)
 * __Web__: 
  * HTML5 
  * CSS3 
