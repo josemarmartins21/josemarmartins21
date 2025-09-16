@@ -8,9 +8,9 @@ Sou um entusiasta de __tecnologia__, atualmente no último ano do ensino médio 
  * Java (POO)
  * PHP (orientado a objetos)
 * __Web__: 
- * HTML5 
- * CSS3 
- * JavaScript
+  * HTML5 
+  * CSS3 
+  * JavaScript
 * __Frameworks & Ferramentas__: 
  * Laravel 
  * PDO
