@@ -12,23 +12,23 @@ Sou um entusiasta de __tecnologia__, atualmente no último ano do ensino médio 
   * CSS3 
   * JavaScript
 * __Frameworks & Ferramentas__: 
- * Laravel 
- * PDO
- * Laragon
- * Composer
- * Git. 
+  * Laravel 
+  * PDO
+  * Laragon
+  * Composer
+  * Git. 
 
 * __Banco de Dados__: 
- * MySQL
- * modelagem ER
- * CRUD 
- * consultas otimizadas
+  * MySQL
+  * modelagem ER
+  * CRUD 
+  * consultas otimizadas
 
 * Qualidade & Versionamento: 
 
- * Git/GitHub
- * Boas práticas de código
-
+  * Git/GitHub
+  * Boas práticas de código
+***
 
 ## 🚀 Objetivos
 
