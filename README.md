@@ -4,35 +4,28 @@ Sou um entusiasta de __tecnologia__, atualmente no último ano do ensino médio 
 
 ## Habilidades Técnicas
 
-* __Linguagens__: 
- * Java (POO)
- * PHP (orientado a objetos)
-* __Web__: 
-  * HTML5 
-  * CSS3 
-  * JavaScript
+* __Backend__: 
+  * Java (POO)
+  * PHP (orientado a objetos)
+* __Frontend__: 
+  * Tailwind
 * __Frameworks & Ferramentas__: 
   * Laravel 
-  * PDO
-  * Laragon
   * Composer
   * Git. 
 
 * __Banco de Dados__: 
   * MySQL
   * modelagem ER
-  * CRUD 
-  * consultas otimizadas
 
 * Qualidade & Versionamento: 
-
   * Git/GitHub
-  * Boas práticas de código
+  * SOLID
 ***
 
 ## 🚀 Objetivos
 
-Ingressar em Engenharia de Software na universidade (previsão em outubro de 2026)
+Ingressar em Engenharia de Software na universidade (previsão em outubro do próximo ano)
 Aprofundar conhecimentos em arquitetura de software e bancos de dados
 Colaborar em projetos de código aberto e evoluir minha carreira como desenvolvedor full‑stack
 
