@@ -22,7 +22,7 @@ Sou um entusiasta de __tecnologia__, atualmente no último ano do ensino médio 
   * SOLID
 ***
 
-## 🚀 Objetivos
+### 🚀 Objetivos
 
 Ingressar em Engenharia de Software na universidade (previsão em outubro do próximo ano)
 Aprofundar conhecimentos em arquitetura de software e bancos de dados
