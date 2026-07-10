@@ -15,3 +15,4 @@ Sou um entusiasta de __tecnologia__, formado em informática e estagiando em uma
   ### Ferramentas 
   * Composer
   * Git
+![https://github.com/josemarmartins21/josemarmartins21/blob/main/Carta%CC%83o%20de%20Visitas%20Consultor%20de%20Vendas%20Laranja%20e%20Preto%20-%201.PNG](cartão de visitas)
